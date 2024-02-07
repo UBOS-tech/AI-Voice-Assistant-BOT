@@ -1,0 +1,8 @@
+[submodule "UBOS-template-AIVoice-Assistant-BOT-nr"]
+	path = UBOS-template-AIVoice-Assistant-BOT-nr
+	url = https://github.com/UBOS-Asset-Store/UBOS-template-AIVoice-Assistant-BOT-nr.git
+	branch = origin
+[submodule "UBOS-template-AIVoice-Assistant-BOT-ui"]
+	path = UBOS-template-AIVoice-Assistant-BOT-ui
+	url = https://github.com/UBOS-Asset-Store/UBOS-template-AIVoice-Assistant-BOT-ui.git
+	branch = main
